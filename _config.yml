@@ -1,6 +1,6 @@
 permalink: /:year:month:day/:title
 url: "yanghoonkim.github.io"
-baseurl: "" /project
+baseurl: "" #/project
 
 # variables
 name: Yanghoon_Kim
