@@ -1,10 +1,10 @@
 permalink: /:year:month:day/:title
-url: #Your url here
-baseurl: /project
+url: "yanghoonkim.github.io"
+baseurl: "" /project
 
 # variables
-name: Your Site Name
-description: Your description here
+name: Yanghoon_Kim
+description: Knowledge Worker, Smart Creative
 google_verification: null
 
 
